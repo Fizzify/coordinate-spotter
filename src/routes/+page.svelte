@@ -96,13 +96,13 @@
 	.board {
 		display: flex;
 		flex-wrap: wrap;
-		width: 800px;
-		height: 800px;
+		width: 400px;
+		height: 400px;
 	}
 
 	.square {
-		width: 100px;
-		height: 100px;
+		width: 50px;
+		height: 50px;
 		border: none;
 		outline: none;
 	}
